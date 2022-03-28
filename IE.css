@@ -1,0 +1,57 @@
+section,
+aside,
+footer {
+    margin: 0 1.5% 24px 1.5%;
+}
+
+section {
+    float: left;
+    width: 22%;
+    min-height: 200px;
+    
+    border-radius: 6px;
+    display:flex
+}
+footer {
+    clear: both;
+    margin-bottom: 0;
+    display:flex
+}
+div {
+    margin: 5% 5% 5% 5%;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: #000000;
+    display:flex
+}
+header {
+    background: #ff00ff;
+    padding: 5%;
+    display:flex
+}
+nav {
+    background: #2f00ff;
+    padding: 20%px 20%px;
+    left: 20%;
+    padding: 5%;
+    display:flex
+    
+}
+aside {
+    background: #ff0000;
+    padding: 5%;
+    display:flex
+}
+section {
+    background: #00ff22;
+    padding: 5%;
+    display:flex
+}
+footer {
+    background: #fbff00;
+    padding: 5%;
+    display:flex;
+}
+base {
+    display:flex;
+}
